@@ -13,6 +13,7 @@
 /Users/dinesh/teamcity-demo/obj/Debug/net8.0/teamcity-demo.MvcApplicationPartsAssemblyInfo.cache
 /Users/dinesh/teamcity-demo/obj/Debug/net8.0/teamcity-demo.RazorAssemblyInfo.cache
 /Users/dinesh/teamcity-demo/obj/Debug/net8.0/teamcity-demo.RazorAssemblyInfo.cs
+/Users/dinesh/teamcity-demo/obj/Debug/net8.0/teamcity-demo.sourcelink.json
 /Users/dinesh/teamcity-demo/obj/Debug/net8.0/staticwebassets.build.json
 /Users/dinesh/teamcity-demo/obj/Debug/net8.0/staticwebassets.development.json
 /Users/dinesh/teamcity-demo/obj/Debug/net8.0/staticwebassets/msbuild.teamcity-demo.Microsoft.AspNetCore.StaticWebAssets.props
